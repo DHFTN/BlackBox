@@ -7,3 +7,4 @@ La nouvelle fiche de personnage - FromTheNorth Collection par DHFTN
 
 Une nouvelle mouture pour les fiches de personnage, cette fois dans une version BlackBox. Vous retrouverez les principales fonctions des modèles précédents dans une version épurée et réagencée tout en noir et blanc et arborant un design faisant davantage référence aux grandes éditions de jeux de rôle.
 
+!(https://black-book-editions.fr/contenu/users/78375/image/mockip.jpg)
