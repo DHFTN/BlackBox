@@ -7,7 +7,7 @@ Mise à jour : mai 2025 (version 2) :
 - Quelques ajustements sur la fiche principale ;
 - Ajout d'espaces pour noter le modificateur de chaque compétence.
 
-## _Feuille de personnage - BlackBox
+## Feuille de personnage - BlackBox
 
 Une nouvelle mouture pour les fiches de personnage, cette fois dans une version BlackBox. Vous retrouverez les principales fonctions des modèles précédents dans une version épurée et réagencée tout en noir et blanc et arborant un design faisant davantage référence aux grandes éditions de jeux de rôle.
 
